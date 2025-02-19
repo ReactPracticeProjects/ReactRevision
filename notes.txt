@@ -1,0 +1,3 @@
+react js me hamko ek state naam ki cheez miligi us bande ko hum mutate naki kar sakate which means we can directly modify or delete it's value.state is immutable
+//how to change the state in immutable way
+
